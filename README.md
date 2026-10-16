@@ -6,8 +6,11 @@ This tool doesn't do any accounting itself, and it never sees your bank data. It
 
 ## How to open it
 
-1. Keep the three files together in one folder: `index.html`, `styles.css`, `app.js`.
-2. Double-click **`index.html`**. It opens in your web browser.
+1. On this GitHub page, click the green **Code** button, then **Download ZIP**.
+2. Unzip (extract) the downloaded file. On Windows, right-click it and choose **Extract All**. On a Mac, double-click it.
+3. Open the extracted folder and double-click **`index.html`**. It opens in your web browser.
+
+Keep `index.html`, `styles.css` and `app.js` together in the same folder.
 
 That's all. Nothing to install, no account to create, no internet needed (the internet is only used to load the font; without it the page falls back to your system font).
 
